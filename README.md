@@ -54,7 +54,7 @@ httpd.serve_forever()
 ```
 
 ## OUTPUT:
-![output](./static/img/multiply.png.png)
+![output](./img/multiply.jpg)
 
 
 ## RESULT:
